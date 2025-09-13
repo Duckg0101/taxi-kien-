@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taxi Kiên Giang</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🚖 Taxi Kiên Giang</h1>
+        <p>Gọi là đến ngay - Phục vụ 24/7</p>
+    </header>
+
+    <section class="hero">
+        <img src="https://i.postimg.cc/8C3g4vMz/taxi-ninh-thuan-6-1708870287.jpg" alt="Taxi Kiên Giang">
+    </section>
+
+    <section class="services">
+        <h2>Dịch vụ của chúng tôi</h2>
+        <ul>
+            <li>🚖 Gọi là đến ngay, kể cả lễ Tết</li>
+            <li>🌏 Nhận hợp đồng xe đưa đón sân bay, đám tiệc, du lịch</li>
+            <li>🚐 Đưa đón liên tỉnh nhanh chóng</li>
+            <li>⏱ Có mặt sau 3 phút gọi</li>
+            <li>💰 Giá cước: 4 chỗ - 13.000đ/km, 7 chỗ - 14.500đ/km</li>
+            <li>🧼 Xe đời mới, vệ sinh sạch sẽ</li>
+        </ul>
+    </section>
+
+    <section class="call">
+        <a href="tel:0123456789" class="call-btn">📞 Gọi ngay: 0944 229 227</a>
+    </section>
+
+    <footer>
+        <p>📍 Kiên Giang, Việt Nam | 📞 <a href="tel:0123456789">0123 456 789</a></p>
+    </footer>
+
+    <!-- Nút gọi nổi -->
+    <a href="tel:0123456789" class="floating-call">📞</a>
+</body>
+</html>
